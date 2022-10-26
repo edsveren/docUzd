@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\bin\Debug\net6.0\VismaUzdevums.exe
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\bin\Debug\net6.0\VismaUzdevums.deps.json
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\bin\Debug\net6.0\VismaUzdevums.runtimeconfig.json
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\bin\Debug\net6.0\VismaUzdevums.dll
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\bin\Debug\net6.0\VismaUzdevums.pdb
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.AssemblyInfo.cs
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.dll
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\refint\VismaUzdevums.dll
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.pdb
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\VismaUzdevums.genruntimeconfig.cache
+C:\Users\eduar\source\repos\VismaUzdevums\VismaUzdevums\obj\Debug\net6.0\ref\VismaUzdevums.dll
